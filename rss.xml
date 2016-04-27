@@ -4,7 +4,7 @@
         <description><![CDATA[Matt Cluett]]></description>
         <link>https://thegrid.ai/matt-cluett/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 03:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 03:53:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/matt-cluett/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/matt-cluett/testing-the-capabilities-of-the-grid/index.html</link>
             <guid isPermaLink="false">56b91b40-f00d-4439-a4fc-a6ab635ff5a7</guid>
             <pubDate>Wed, 27 Apr 2016 03:46:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I'm really excited to get my hands on this: http://www.dji.com/product/ronin-mx</p>]]></description>
+            <link>https://thegrid.ai/matt-cluett/im-really-excited-to-get-my-hands-on-this-httpwwwdjic/index.html</link>
+            <guid isPermaLink="false">7691dd71-2c1b-4505-b054-751bd895a841</guid>
+            <pubDate>Wed, 27 Apr 2016 03:53:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Testing the capabilities of the Grid.
-datePublished: '2016-04-27T03:40:13.800Z'
-dateModified: '2016-04-27T03:39:53.851Z'
+datePublished: '2016-04-27T03:46:07.199Z'
+dateModified: '2016-04-27T03:45:54.241Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-19-testing-the-capabilities-of-the-grid.md
